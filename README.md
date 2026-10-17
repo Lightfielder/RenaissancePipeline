@@ -1,6 +1,6 @@
 # Renaissance Pipeline
 
-Renaissance is a production pipeline tuned for virtual production, visual effects, and XR media workflows. This webpage represents public launch of the [ATSF](https://github.com/ATSFSTUDIOS/) team co-developed in-house pipeline technology called "Renaissance" as a new code repository on GitHub. 
+Renaissance is a production pipeline tuned for virtual production, visual effects, and XR media workflows. This webpage represents a morepublic launch of the [ATSF STUDIOS](https://github.com/ATSFSTUDIOS/) team co-developed in-house pipeline technology called "Renaissance" as a new code repository on GitHub. 
 
 This R&D effort originally started out as a 2021 era "EPIC Megagrant" proposal submission for a hybrid unified pipeline that worked cross-DCC host, to allow as close to lossless data interchange with in-memory zero copy techniques for Renderless Compositing data bridging, when available by a programming API.
 
