@@ -27,7 +27,7 @@ https://www.youtube.com/shorts/vNXYkEilh2Y
 
 ## OpenDisplayXR Journey
 
-A version of the Renaissance XR stage focused ideas and concepts was built into the Stereo 3D multi-display demonstrator known at the time as OpenDisplayXR. Farhad at AMD helped provide gear access to Dover Studios, Inc. that allowed the OpenXR focused R&D to advance.
+A version of the Renaissance XR stage focused ideas and concepts was built into the Stereo 3D multi-display demonstrator known at the time as [OpenDisplayXR](https://github.com/Lightfielder/OpenDisplayXR). Farhad at AMD helped provide gear access to Dover Studios, Inc. that allowed the OpenXR focused R&D to advance.
 
 This OpenDisplayXR project's ideas were then remade by friends at Schneider Digital into the [ImmersaXR-Studio solution](https://www.schneider-digital.com/en/immersa-open-xr-studio-software/) that helps connect the OpenXR/WebXR APIs to Quadbuffer/Multibuffer Swapchain based stereoscopic displays. The ImmersaXR-Studio project received co-development funding which allowed the Schneider Digital lead development effort to be realized at the highest quality possible by [Harald Steinlechner](https://github.com/haraldsteinlechner) and his team at [Aardworx](https://www.aardworx.at/).
 
