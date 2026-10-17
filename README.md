@@ -12,9 +12,9 @@ The Renaissance Pipeline development efforts began, at full-speed in April 2021,
 
 ![Stage Build](Images/Stage-Build.webp)
 
-At its core, Renaissance was an innovative XR stage focused media server and bridge interface. It was developed as part of the planning process for a large-scale SciFi virtual production project based out of Sweden's [Ystad Studios](https://filmiskane.se/en/ystad-studios-english). The [key research](https://medium.com/@andrewhazelden/raytraced-volumetric-video-stitching-d907678d61f4) for Renaissance was focused on DLP projection based VP solutions as a way to avoid moire artifacts, improve color fidelity, and better control the price/performance aspects of budgeting for an in-house project-based XR stage studio rollout.
+At its core, Renaissance was an innovative XR stage focused media server and bridge interface. It was developed as part of the planning process for a large-scale SciFi virtual production project based out of Sweden's [Ystad Studios](https://filmiskane.se/en/ystad-studios-english). 
 
-This research effort was done in collaboration with production partners Tobias Falk &amp; Tomas Wall of Cinegrace, [Film i Skåne](https://filmiskane.se/en/) (The Southern Sweden Film Commission), and Dover Studios, Inc. 
+The [key research](https://medium.com/@andrewhazelden/raytraced-volumetric-video-stitching-d907678d61f4) for Renaissance was focused on DLP projection based VP solutions as a way to avoid moire artifacts, improve color fidelity, and better control the price/performance aspects of budgeting for an in-house project-based XR stage studio rollout. This effort was done in collaboration with production partners Tobias Falk &amp; Tomas Wall of Cinegrace, [Film i Skåne](https://filmiskane.se/en/) (The Southern Sweden Film Commission), and Dover Studios, Inc. 
 
 ![DLP Projectors](Images/DLP-Projection.webp)
 
