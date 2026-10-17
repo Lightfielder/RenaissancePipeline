@@ -4,6 +4,8 @@ Renaissance is a production pipeline tuned for virtual production, visual effect
 
 This effort originally started out as a 2021 era EPIC Megagrant proposal submission for a hybrid unified pipeline that worked cross-DCC host, to allow as close to lossless data interchange with "in-memory" zero copy techniques for data bridging when available by a programming API.
 
+![Cinegrace Virtual Production Test](Images/Virtual-Production-Test.jpg)
+
 ## Overview
 
 The Renaissance Pipeline development efforts started in April 2021 as an idea to make an OpenXR multi-display based offshoot of the pre-existing immersive technology known as Kartaverse/KartaVR. The hope was to be able to adopt and build out a Khronos Group based industry standard XR stage solution of OpenXR and Vulkan graphics API that could help replace vendored proprietary rendering technologies that were very dominant at the time.
