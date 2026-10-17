@@ -26,12 +26,10 @@ https://www.youtube.com/shorts/vNXYkEilh2Y
 
 ## OpenDisplayXR Journey
 
-A version of the Renaissance XR stage focused ideas and concepts was built into the Stereo 3D multi-display demonstrator known at the time as OpenDisplayXR. This project's ideas were then remade by Schneider Digital into the ImmersaXR-Studio solution that helps connect the OpenXR/WebXR APIs to Quadbuffer/Multibuffer Swapchain based stereoscopic displays. 
+A version of the Renaissance XR stage focused ideas and concepts was built into the Stereo 3D multi-display demonstrator known at the time as OpenDisplayXR. Farhad at AMD helped provide gear access to Dover Studios, Inc. that allowed the OpenXR focused R&D to advance.
 
-The ImmersaXR-Studio project received German government co-development funding which allowed the Schneider Digital development effort to be realized at the highest quality possible by [Harald Steinlechner](https://github.com/haraldsteinlechner) at Aardworx.
+This OpenDisplayXR project's ideas were then remade by friends at Schneider Digital into the ImmersaXR-Studio solution that helps connect the OpenXR/WebXR APIs to Quadbuffer/Multibuffer Swapchain based stereoscopic displays. The ImmersaXR-Studio project received German government co-development funding which allowed the Schneider Digital development effort to be realized at the highest quality possible by [Harald Steinlechner](https://github.com/haraldsteinlechner) and his team at Aardworx.
 
 ## XR Stage Gear Database 
 
-The Kartaverse/Lightfielder project also hosts a mini [XR LED Panel Database](https://kartaverse.github.io/XR-LED-Panel-Database/) effort on GitHub, too. 
-
-The database started from the research and code that EmberlightVFX's Jacob Danell and I put into the [Camera Sensor Database](https://github.com/EmberLightVFX/Camera-Sensor-Database), and the Reactor Standalone hosted atom package version of the same DB.
+The Kartaverse/Lightfielder project also hosts a mini [XR LED Panel Database](https://kartaverse.github.io/XR-LED-Panel-Database/) effort on GitHub, too. The database started from the research and code that EmberlightVFX's Jacob Danell and I put into the [Camera Sensor Database](https://github.com/EmberLightVFX/Camera-Sensor-Database), and the Reactor Standalone hosted atom package version of the same DB.
