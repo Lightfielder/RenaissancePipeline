@@ -8,13 +8,13 @@ This effort originally started out as a 2021 era EPIC Megagrant proposal submiss
 
 ## Overview
 
-The Renaissance Pipeline development efforts started in April 2021 as an idea to make an OpenXR multi-display based offshoot of the pre-existing immersive technology known as Kartaverse/KartaVR. The hope was to be able to adopt and build out a Khronos Group based industry standard XR stage solution of OpenXR and Vulkan graphics API that could help replace vendored proprietary rendering technologies that were very dominant at the time.
+The Renaissance Pipeline development efforts began, at full-speed in April 2021, as an idea to make an OpenXR multi-display based offshoot of the pre-existing immersive technology known as Kartaverse/KartaVR. The hope was to be able to adopt and build out a Khronos Group based industry standard XR stage solution of OpenXR and Vulkan graphics API that could help replace vendored proprietary rendering technologies that were very dominant at the time.
 
 ![Stage Build](Images/Stage-Build.webp)
 
-At its core Renaissance was an innovative XR stage focused media server and bridge interface. It was developed as part of the planning process for a large-scale SciFi virtual production project based out of Sweden's Ystad Studios. The [key research](https://medium.com/@andrewhazelden/raytraced-volumetric-video-stitching-d907678d61f4) was focused on DLP projection based VP solutions. 
+At its core, Renaissance was an innovative XR stage focused media server and bridge interface. It was developed as part of the planning process for a large-scale SciFi virtual production project based out of Sweden's [Ystad Studios](https://filmiskane.se/en/ystad-studios-english). The [key research](https://medium.com/@andrewhazelden/raytraced-volumetric-video-stitching-d907678d61f4) for Renaissance was focused on DLP projection based VP solutions as a way to avoid moire artifacts, improve color fidelity, and better control the price/performance aspects of budgeting for an in-house project-based XR stage studio rollout.
 
-This effort was done in collaboration with production partners Tobias Falk and Tomas Wall of Cinegrace, Film i Skåne (The Southern Sweden Film Commission), and Dover Studios, Inc. 
+This research effort was done in collaboration with production partners Tobias Falk &amp; Tomas Wall of Cinegrace, [Film i Skåne](https://filmiskane.se/en/) (The Southern Sweden Film Commission), and Dover Studios, Inc. 
 
 ![DLP Projectors](Images/DLP-Projection.webp)
 
