@@ -18,13 +18,13 @@ The [key research](https://medium.com/@andrewhazelden/raytraced-volumetric-video
 
 ![DLP Projectors](Images/DLP-Projection.webp)
 
-The core creative team for the VP effort included the [ATSF](https://www.imdb.com/title/tt35421453) show creator [Aurore de Blois](https://www.imdb.com/name/nm2642629/), [Doug Drexler](https://www.imdb.com/name/nm0237774/), and other collaborators. This was a seasoned crew of industry veterans, that had already worked for years and years on award winning science fiction shows like Star Trek (TNG to Picard), and Battlestar Galactica (2004-2009).
+The core creative team for the VP effort included the [ATSF](https://www.imdb.com/title/tt35421453) show creator [Aurore de Blois](https://www.imdb.com/name/nm2642629/), [Doug Drexler](https://www.imdb.com/name/nm0237774/), and other collaborators. This was a seasoned crew of industry veterans, that had already worked for years and years on award winning science fiction shows like Star Trek (TNG to Picard), and [Battlestar Galactica (2004-2009)](https://www.imdb.com/title/tt0407362/).
 
 The Renaissance effort was originally conceived as part of a EPIC Megagrant submitted proposal for a hybrid unified pipeline architecture, that worked across numerous DCC hosts. The goal was to build out a lossless data interchange concept that was known internally as Renderless Compositing. It would go on to support with "in-memory zero copy" techniques for data bridging, when available by a host DCC package's programming API.
 
-The Renaissance toolset is LGPL open-source licensed software. After many eyeons (meaning years and years), this innovative technology is finally getting a public release via the [Lightfielder GitHub repo](https://github.com/Lightfielder) in the month of November, 2026.
+The Renaissance toolset is finally arriving as open-source LGPL licensed software. After many eyeons (meaning years and years), this innovative technology is finally getting a public release via the [Lightfielder GitHub repo](https://github.com/Lightfielder) in the month of November, 2026.
 
-YouTube Short Video | Renaissance Pipeline for BMD Resolve Studio/Fusion  
+**YouTube Short Video | Renaissance Pipeline for BMD Resolve Studio/Fusion**   
 https://www.youtube.com/shorts/vNXYkEilh2Y  
 
 ## OpenDisplayXR Journey
