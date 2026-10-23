@@ -6,6 +6,8 @@ This R&D effort originally started out as a 2021 era "EPIC Megagrant" proposal s
 
 ![Cinegrace Virtual Production Test](Images/Virtual-Production-Test.jpg)
 
+(Image sourced from a 2023 "[Neural Rendering the Metaverse](https://youtu.be/sV9CPUdGBKw?si=xWDd91t0CRzNuFKA)" YouTube video)
+
 ## Overview
 
 The Renaissance Pipeline development efforts began, at full-speed in April 2021, as an idea to make an OpenXR multi-display based offshoot of the pre-existing immersive technology known as Kartaverse/KartaVR. The hope was to be able to adopt and build out a Khronos Group based industry standard XR stage solution of OpenXR and Vulkan graphics API that could help replace vendored proprietary rendering technologies that were very dominant at the time.
